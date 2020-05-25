@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 ---
 ## Project Overview
-This project utilizes `rospy`, a 
+This project utilizes `rospy`, the python client for ROS to quickly interface with ROS nodes, services, parameters, etc.
 
 I worked on the named python files below in this capstone project. The remainder of the work was from Udacity.
 1. Perception Module
